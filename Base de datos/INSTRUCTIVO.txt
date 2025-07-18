@@ -1,0 +1,9 @@
+Comando para consola:
+sqlcmd -S "USUARIO DE SSMS" -i "NOMBRE DEL ARCHIVO.SQL"  -a 32767 -o resultado_output.txt 
+
+
+ejecutar 3 cosas:
+1ro - esquema.schema
+2do - esquema.maestra
+3ro - esquema.maestra.table
+y listo
